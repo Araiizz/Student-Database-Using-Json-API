@@ -1,0 +1,37 @@
+[
+    {
+    "Student_1" : {
+        "Institute" : "Aptech",
+        "Branch" : "Shahra-e-Faisal",
+        "Name" : "Araiz",
+        "Course" : "CIT 1-5 Web",
+        "Age" : 23,
+        "Gender" : "Male",
+        "Contact" : "03000000000"
+    }
+
+},
+    {
+    "Student_2" : {
+        "Institute" : "Aptech",
+        "Branch" : "University Road",
+        "Name" : "Zain",
+        "Course" : "App Development",
+        "Age" : 24,
+        "Gender" : "Male",
+        "Contact" : "03172323233"
+    }
+},
+    {
+
+    "Student_3" : {
+        "Institute" : "Aptech",
+        "Branch" : "Gulshan-e-Iqbal",
+        "Name" : "Ali",
+        "Course" : "Python",
+        "Age" : 21,
+        "Gender" : "Male",
+        "Contact" : "03098076574"
+    }
+}
+]
